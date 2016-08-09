@@ -1,4 +1,4 @@
-This project contains two R scripts. 
+This project contains two R scripts, and a file containing tidy data
 
 load_data.R downloads the data and stores it in preliminary R objects that are used by run_analysis.R
 
